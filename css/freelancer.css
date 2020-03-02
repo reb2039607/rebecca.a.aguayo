@@ -488,6 +488,10 @@ mark,
   height: auto;
 }
 
+#profile-img {
+  border-radius: 50%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
