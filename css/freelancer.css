@@ -486,10 +486,12 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  
 }
 
 #profile-img {
   border-radius: 50%;
+  
 }
 
 .img-thumbnail {
